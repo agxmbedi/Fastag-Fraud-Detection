@@ -1,5 +1,5 @@
 
-# 🚗 FASTag Fraud Detection 🕵️‍♂️
+#  FASTag Fraud Detection 
 
 Welcome to the **FASTag Fraud Detection** project – a deep dive into the murky world of digital toll payments in India. Using real-world transaction data, this project reveals patterns, exposes vulnerabilities, and builds a model to detect potential fraud with precision.
 
@@ -46,6 +46,4 @@ With the rise of digital toll collection via FASTag, so have fraudulent activiti
 - Add real-time anomaly detection.
 - Integrate vehicle entry/exit time for deeper behavioral analysis.
 
-## 🚀 Let’s Connect
 
-If you're passionate about data science, cybersecurity, or fintech, let’s talk! Connect with me on [LinkedIn](https://www.linkedin.com).
